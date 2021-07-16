@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kishan Kumar</h1>
-<h3 align="center">A passionate frontend developer from India - (Dhanbad Jharkhand)</h3>
+<h3 align="center">A passionate frontend developer from India - </br>(Dhanbad Jharkhand)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishan-7143&label=Profile%20views&color=0e75b6&style=flat" alt="kishan-7143" /> </p>
 
